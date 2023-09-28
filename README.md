@@ -1,4 +1,4 @@
-# Toy Robot Simulator
+# Toy Robot Simulator ![Tests passing](https://github.com/al3rez/robot-ruby/actions/workflows/ruby.yml/badge.svg)
 
 The Toy Robot Simulator is a Ruby application that simulates a robot moving on a square tabletop, of dimensions 5 units x 5 units. The simulator reads in commands to place the robot on the table and to move, rotate, and report the robot’s position and facing direction.
 ![Showcase](demo.gif)
